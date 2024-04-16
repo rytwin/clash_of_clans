@@ -1,0 +1,10 @@
+Variable,Coefficient
+hero_sum,1.4779700652528949
+cc_size_defend,-0.37096240810618014
+base_ww_defend,-1.9682942355345907
+th_attack_lower,-2.069022438708256
+th_attack_higher,0.37844143778333905
+first_attack,-0.9974858440387597
+army_size_total,0.6617379263287083
+Intercept,0.0
+alpha,1.45
